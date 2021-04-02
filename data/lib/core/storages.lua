@@ -1671,13 +1671,18 @@ Storage = {
 		Time = 52300
 	},
 	GraveDanger = {
-		-- Reserved storage from 52310 - 52339
-		Questline = 52310,
-		CobraBastion = {
-			Questline = 52311,
-			ScarlettTimer = 52312
-		}
-	},
+         -- Reserved storage from 52310 - 52339
+        Questline = 52310,
+        CobraBastion = {
+        Questline = 52311,
+        ScarlettTimer = 52312
+        VlarkorthTimer = 52313,
+        KruleTimer = 52314,
+        OsamTimer = 52315,
+        KingZelosTimer = 52316,
+        AzaramTimer = 52317,
+        BaelocTimer= 52318
+},
 	RottinWoodAndMaried = {
 		-- Reserved storage from 52340 - 52349
 		Questline = 52340,
